@@ -1,0 +1,27 @@
+$primary: #610303;
+$secondary: #ffbf3d;
+$tertiary: #ffffff;
+
+.primary-bg {
+    background-color: $primary !important;
+}
+
+.secondary-bg {
+    background-color: $secondary !important;
+}
+
+.primary-border {
+    border-color: $primary !important;
+}
+
+.primary-color {
+    color: $primary !important;
+}
+
+.secondary-color {
+    color: $secondary !important;
+}
+
+.tertiary-color {
+    color: $tertiary !important;
+}
